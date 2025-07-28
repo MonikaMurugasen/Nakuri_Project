@@ -87,7 +87,7 @@ public class EmploymentPage extends BaseClass implements EmploymentWebelement{
 	   jsClick(noticeperiod);
 	   jsClick(option);
 	   jsClick(save);
-		
+		System.out.println("Print");
 		
 		
 		
